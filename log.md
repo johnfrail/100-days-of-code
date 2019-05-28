@@ -13,3 +13,11 @@
 **Thoughts**: My design skill really needs some improvement. Lol
 
 **Link(s) to work**: [Android Tribute Page](https://johnfrail.github.io/android-tribute-page/)
+
+### Day 3: May 27, 2019
+
+**Today's Progress**: Finished survey form for android
+
+**Thoughts**: I can see that I'm getting better in the desi
+
+**Link(s) to work**: [Android Survey Form](https://johnfrail.github.io/android-survey-form/)
