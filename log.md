@@ -10,14 +10,22 @@
 
 **Today's Progress**: Finished Tribute page for android
 
-**Thoughts**: My design skill really needs some improvement. Lol
+**Thoughts**: My design skill really needs some improvement. Lol.
 
 **Link(s) to work**: [Android Tribute Page](https://johnfrail.github.io/android-tribute-page/)
 
-### Day 3: May 27, 2019
+### Day 3: May 28, 2019
 
 **Today's Progress**: Finished survey form for android
 
-**Thoughts**: I can see that I'm getting better in the desi
+**Thoughts**: I can see that I'm getting better in the design. Haha.
+
+**Link(s) to work**: [Android Survey Form](https://johnfrail.github.io/android-survey-form/)
+
+### Day 4: May 29, 2019
+
+**Today's Progress**: Improve the responsive design for my android survey form
+
+**Thoughts**: There's always a better way to do things, you just gotta be wise.
 
 **Link(s) to work**: [Android Survey Form](https://johnfrail.github.io/android-survey-form/)
