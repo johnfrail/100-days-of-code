@@ -29,3 +29,11 @@
 **Thoughts**: There's always a better way to do things, you just gotta be wise.
 
 **Link(s) to work**: [Android Survey Form](https://johnfrail.github.io/android-survey-form/)
+
+### Day 5: May 30, 2019
+
+**Today's Progress**: Build the layout and initial design of my android landing page
+
+**Thoughts**: It's hard to generate ideas.
+
+**Link(s) to work**: [Android Landing Page](https://codepen.io/johnfrail/pen/BeqMeR)
