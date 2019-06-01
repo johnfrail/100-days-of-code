@@ -37,3 +37,9 @@
 **Thoughts**: It's hard to generate ideas.
 
 **Link(s) to work**: [Android Landing Page](https://codepen.io/johnfrail/pen/BeqMeR)
+
+### Day 6: June 1, 2019
+
+**Today's Progress**: Started learning basic javascript up until mathematical operations.
+
+**Thoughts**: I already have a background knowledge in javascript, just refreshing. Really.
