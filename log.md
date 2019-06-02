@@ -43,3 +43,9 @@
 **Today's Progress**: Started learning basic javascript up until mathematical operations.
 
 **Thoughts**: I already have a background knowledge in javascript, just refreshing. Really.
+
+### Day 7: June 2, 2019
+
+**Today's Progress**: Learned about augmented operations and how to manipulate strings in javascript.
+
+**Thoughts**: Programming languages has a similar implementation, they only have different syntax and names.
