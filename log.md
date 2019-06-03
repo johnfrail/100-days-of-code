@@ -49,3 +49,9 @@
 **Today's Progress**: Learned about augmented operations and how to manipulate strings in javascript.
 
 **Thoughts**: Programming languages has a similar implementation, they only have different syntax and names.
+
+### Day 8: June 3, 2019
+
+**Today's Progress**: Mastered javascript arrays, functions, and created a queue function.
+
+**Thoughts**: Can't believe I am having a hard time with this topics in college. LOL.
