@@ -55,3 +55,9 @@
 **Today's Progress**: Mastered javascript arrays, functions, and created a queue function.
 
 **Thoughts**: Can't believe I am having a hard time with this topics in college. LOL.
+
+### Day 9: June 5, 2019
+
+**Today's Progress**: Learned javascript if statement and comparison operators. Also familiarized how to handle frontend in laravel.
+
+**Thoughts**: I can't believe I am able to handle two different technologies at the same time.
