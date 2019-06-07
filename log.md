@@ -69,4 +69,6 @@
 
 ### Day 11: June 7, 2019
 
-**Today's Progress**: Today I learned and practice about conditionals in javascript.
+**Today's Progress**: Finally installed fann and run the examples, did some code modification in laravel, and handle css design.
+
+**Thoughts**: I can't believe I am able to handle two different technologies at the same time.
