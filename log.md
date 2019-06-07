@@ -61,3 +61,12 @@
 **Today's Progress**: Learned javascript if statement and comparison operators. Also familiarized how to handle frontend in laravel.
 
 **Thoughts**: I can't believe I am able to handle two different technologies at the same time.
+
+### Day 10: June 6, 2019
+
+**Today's Progress**: Today I learned and practice about conditionals in javascript.
+
+
+### Day 11: June 7, 2019
+
+**Today's Progress**: Today I learned and practice about conditionals in javascript.
