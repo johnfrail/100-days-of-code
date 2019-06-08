@@ -72,3 +72,9 @@
 **Today's Progress**: Finally installed fann and run the examples, did some code modification in laravel, and handle css design.
 
 **Thoughts**: I can't believe I am able to handle two different technologies at the same time.
+
+### Day 12: June 8, 2019
+
+**Today's Progress**: Created a landing page using Bulma CSS framework for the client.
+
+**Thoughts**: Got a lot of stuff to do. Thanks God I still made it.
