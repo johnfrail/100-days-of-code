@@ -78,3 +78,9 @@
 **Today's Progress**: Created a landing page using Bulma CSS framework for the client.
 
 **Thoughts**: Got a lot of stuff to do. Thanks God I still made it.
+
+### Day 13: June 9, 2019
+
+**Today's Progress**: Converted sketch design into an html css code and it is fully responsive. I use bulma css framework for increasing my productivity.
+
+**Thoughts**: I think I'm in love with bulma.
