@@ -84,3 +84,9 @@
 **Today's Progress**: Converted sketch design into an html css code and it is fully responsive. I use bulma css framework for increasing my productivity.
 
 **Thoughts**: I think I'm in love with bulma.
+
+### Day 14: June 10, 2019
+
+**Today's Progress**: I created 2 landing pages using bulma css framework and 10 other extra pages.
+
+**Thoughts**: I'm happy to be able to create web pages faster now.
