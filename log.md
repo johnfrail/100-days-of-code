@@ -90,3 +90,9 @@
 **Today's Progress**: I created 2 landing pages using bulma css framework and 10 other extra pages.
 
 **Thoughts**: I'm happy to be able to create web pages faster now.
+
+### Day 15: June 11, 2019
+
+**Today's Progress**: Create a responsive landing page using bootstrap 4 & Bulma CSS Framework.
+
+**Thoughts**: These two has their own advantages and disadvantages.
