@@ -96,3 +96,9 @@
 **Today's Progress**: Create a responsive landing page using bootstrap 4 & Bulma CSS Framework.
 
 **Thoughts**: These two has their own advantages and disadvantages.
+
+### Day 16: June 12, 2019
+
+**Today's Progress**: Added a slider to a landing page using bootstrap 4 and started a new landing page for FCC challenge.
+
+**Thoughts**: I have an unfinish landing page for FCC challenge but I want to start fresh again because last time it is not designed well.
