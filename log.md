@@ -102,3 +102,9 @@
 **Today's Progress**: Added a slider to a landing page using bootstrap 4 and started a new landing page for FCC challenge.
 
 **Thoughts**: I have an unfinish landing page for FCC challenge but I want to start fresh again because last time it is not designed well.
+
+### Day 17: June 14, 2019
+
+**Today's Progress**: Created the html layout for my landing page using mobile first approach.
+
+**Thoughts**: I wanted to master mobile first approach.
