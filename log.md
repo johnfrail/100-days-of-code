@@ -108,3 +108,9 @@
 **Today's Progress**: Created the html layout for my landing page using mobile first approach.
 
 **Thoughts**: I wanted to master mobile first approach.
+
+### Day 18: June 15, 2019
+
+**Today's Progress**: Setup native LAMP stack on mac and started my new laravel site.
+
+**Thoughts**: I'm trying an in-depth learning in laravel.
