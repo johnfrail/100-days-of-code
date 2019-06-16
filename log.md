@@ -114,3 +114,9 @@
 **Today's Progress**: Setup native LAMP stack on mac and started my new laravel site.
 
 **Thoughts**: I'm trying an in-depth learning in laravel.
+
+### Day 19: June 16, 2019
+
+**Today's Progress**: Continued working on my laravel site.
+
+**Thoughts**: MVC really amaze me.
