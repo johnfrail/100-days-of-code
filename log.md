@@ -120,3 +120,9 @@
 **Today's Progress**: Continued working on my laravel site.
 
 **Thoughts**: MVC really amaze me.
+
+### Day 20: June 17, 2019
+
+**Today's Progress**: Continued working on my laravel blog site and created a landing page using bootstrap 4.
+
+**Thoughts**: Realized how good bootstrap 4 is.
