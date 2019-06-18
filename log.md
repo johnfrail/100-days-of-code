@@ -126,3 +126,9 @@
 **Today's Progress**: Continued working on my laravel blog site and created a landing page using bootstrap 4.
 
 **Thoughts**: Realized how good bootstrap 4 is.
+
+### Day 21: June 18, 2019
+
+**Today's Progress**: Finished the frontend of my laravel blog site and learn how to use sass.
+
+**Thoughts**: Gaining interest in sass.
