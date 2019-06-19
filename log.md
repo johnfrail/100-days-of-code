@@ -132,3 +132,10 @@
 **Today's Progress**: Finished the frontend of my laravel blog site and learn how to use sass.
 
 **Thoughts**: Gaining interest in sass.
+
+### Day 22: June 19, 2019
+
+**Today's Progress**: Created a database for my laravel blog site and learn how to use tinker and eloquent ORM.
+
+**Thoughts**: ORM is very useful especially if you have no background in sql queries.
+
