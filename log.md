@@ -139,3 +139,8 @@
 
 **Thoughts**: ORM is very useful especially if you have no background in sql queries.
 
+### Day 23: June 20, 2019
+
+**Today's Progress**: Learn how to fetch data using eloquent.
+
+**Thoughts**: Eloquent ORM is really great.
