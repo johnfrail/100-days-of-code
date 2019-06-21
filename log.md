@@ -144,3 +144,9 @@
 **Today's Progress**: Learn how to fetch data using eloquent.
 
 **Thoughts**: Eloquent ORM is really great.
+
+### Day 24: June 21, 2019
+
+**Today's Progress**: Learn how to use laravel collective and ckeditor.
+
+**Thoughts**: My blog site is almost done and I can't wait. lol
