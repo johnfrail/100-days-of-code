@@ -150,3 +150,9 @@
 **Today's Progress**: Learn how to use laravel collective and ckeditor.
 
 **Thoughts**: My blog site is almost done and I can't wait. lol
+
+### Day 25: June 22, 2019
+
+**Today's Progress**: Added an update/delete functionality in laravel.
+
+**Thoughts**: I'm almost done with CRUD functionality
