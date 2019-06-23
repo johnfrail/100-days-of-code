@@ -156,3 +156,10 @@
 **Today's Progress**: Added an update/delete functionality in laravel.
 
 **Thoughts**: I'm almost done with CRUD functionality
+
+### Day 26: June 23, 2019
+
+**Today's Progress**: Finally added an auth to my laravel blog site.
+
+**Thoughts**: Yeah I receive different kinds of error but everything still works out at the end of the day.
+
