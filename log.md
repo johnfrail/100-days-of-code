@@ -163,3 +163,8 @@
 
 **Thoughts**: Yeah I receive different kinds of error but everything still works out at the end of the day.
 
+### Day 27: June 24, 2019
+
+**Today's Progress**: Added model relationship and access control.
+
+**Thoughts**: It's almost finish and I'm very excited.
