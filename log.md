@@ -168,3 +168,21 @@
 **Today's Progress**: Added model relationship and access control.
 
 **Thoughts**: It's almost finish and I'm very excited.
+
+### Day 28: June 25, 2019
+
+**Today's Progress**: Finally added the last functionality of my blog site which is file upload.
+
+**Thoughts**: I'm very happy and satisfied and wanted to create a similar project right away.
+
+### Day 29: June 26, 2019
+
+**Today's Progress**: Finish bootstrap sandbox from following "Bootstrap From Scratch" course.
+
+**Thoughts**: This project can be very good as a reference in the future.
+
+### Day 30: June 27, 2019
+
+**Today's Progress**: Started learning c# for my work as a desktop and mobile developer.
+
+**Thoughts**: I'm very excited for this one.
