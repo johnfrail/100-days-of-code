@@ -186,3 +186,9 @@
 **Today's Progress**: Started learning c# for my work as a desktop and mobile developer.
 
 **Thoughts**: I'm very excited for this one.
+
+### Day 31: June 28, 2019
+
+**Today's Progress**: Learned all the basics in C#.
+
+**Thoughts**: I'm excited to go deeper.
