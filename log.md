@@ -195,6 +195,12 @@
 
 ### Day 32: June 29, 2019
 
-**Today's Progress**: Make a UI for a laravel application, created a landing page and continue learning on C#.
+**Today's Progress**: Created a UI for a laravel application, created a landing page and continue learning on C#.
 
 **Thoughts**: I'm amaze by how fast I can easily create landing pages.
+
+### Day 33: June 30, 2019
+
+**Today's Progress**: Continued learning the fundamental of C#.
+
+**Thoughts**: It's fun knowing how applications works in desktop.
