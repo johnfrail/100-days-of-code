@@ -204,3 +204,9 @@
 **Today's Progress**: Continued learning the fundamental of C#.
 
 **Thoughts**: It's fun knowing how applications works in desktop.
+
+### Day 34: July 1, 2019
+
+**Today's Progress**: Created a landing page using Bootstrap 4.
+
+**Thoughts**: Made it fast and easy.
