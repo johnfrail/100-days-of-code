@@ -210,3 +210,9 @@
 **Today's Progress**: Created a landing page using Bootstrap 4.
 
 **Thoughts**: Made it fast and easy.
+
+### Day 35: July 2, 2019
+
+**Today's Progress**: Added smooth scrolling and responsiveness to a landing page I created. For my software development learning, I fully understand the non-primitive types in C# and started my learning in Xamarin Forms.
+
+**Thoughts**: C# is getting interesting and fun for me.
