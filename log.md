@@ -216,3 +216,9 @@
 **Today's Progress**: Added smooth scrolling and responsiveness to a landing page I created. For my software development learning, I fully understand the non-primitive types in C# and started my learning in Xamarin Forms.
 
 **Thoughts**: C# is getting interesting and fun for me.
+
+### Day 36: July 3, 2019
+
+**Today's Progress**: Created my first xamarin app and continued my learning on c# fundamentals. I also started my blog website using laravel.
+
+**Thoughts**: I find xamarin to be a very great platform.
