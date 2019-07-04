@@ -222,3 +222,7 @@
 **Today's Progress**: Created my first xamarin app and continued my learning on c# fundamentals. I also started my blog website using laravel.
 
 **Thoughts**: I find xamarin to be a very great platform.
+
+**Today's Progress**: I've started Modern HTML and CSS course by brad traversy to referesh my knowledge.
+
+**Thoughts**: Wanted to learn more about html and css.
