@@ -223,6 +223,14 @@
 
 **Thoughts**: I find xamarin to be a very great platform.
 
+### Day 37: July 4, 2019
+
 **Today's Progress**: I've started Modern HTML and CSS course by brad traversy to referesh my knowledge.
 
 **Thoughts**: Wanted to learn more about html and css.
+
+### Day 38: July 5, 2019
+
+**Today's Progress**: Today, I created a simple pure HTML, CSS page with responsive design and created the UI for our thesis project.
+
+**Thoughts**: Learned a lot of things just by reviewing html and css.
