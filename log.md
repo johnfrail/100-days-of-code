@@ -234,3 +234,9 @@
 **Today's Progress**: Today, I created a simple pure HTML, CSS page with responsive design and created the UI for our thesis project.
 
 **Thoughts**: Learned a lot of things just by reviewing html and css.
+
+### Day 39: July 6, 2019
+
+**Today's Progress**: I continued the UI for our thesis project, started learning XAML and created a full guide using markdown on how to create a simple blog application in laravel.
+
+**Thoughts**: XAML is quite simple.
